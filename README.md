@@ -2,6 +2,8 @@
 
 > A neon-green texture pack for redstoners: everything redstone-relevant gets an outline you can read at a glance.
 
+[![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
 All textures are computed from the vanilla originals by script - nothing is hand-pixelled. Buttons and plates turn completely neon green, chests, furnaces and shulker boxes get outlines, pistons and dispensers get direction arrows.
 
 ## What it does
@@ -37,6 +39,8 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 
 - The textures are derived from Minecraft's vanilla textures, which belong to Mojang; this pack contains only recoloured/derived versions. If Mojang objects, it will be taken down.
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+
+![preview](neon-redstone.png)
 
 ---
 
